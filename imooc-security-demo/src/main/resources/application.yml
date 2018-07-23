@@ -1,0 +1,11 @@
+spring:
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/imooc_demo?useUnicode=true&ampcharacterEncoding=UTF-8
+      username: root
+      password:
+  session:
+    store-type: none
+security:
+  basic:
+    enabled: false
