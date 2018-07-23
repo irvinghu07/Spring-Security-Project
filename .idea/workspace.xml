@@ -6,7 +6,36 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3039930-cccc-4e25-b813-3e1f30ea40b6" name="Default" comment="" />
+    <list default="true" id="c3039930-cccc-4e25-b813-3e1f30ea40b6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/imoocsecurity_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-app/target/imooc-security-app-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-app/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-browser/imoocsecuritybrowser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-browser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-browser/target/imooc-security-browser-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-browser/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-core/target/imooc-security-core-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/DemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/demo.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/demo.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imoocsecurity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/imoocsecurity_jar/imoocsecurity.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/imooc-security-core/target/" />
@@ -104,6 +133,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -162,6 +194,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -335,12 +368,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532269059534</updated>
-      <workItem from="1532269061517" duration="8607000" />
+      <workItem from="1532269061517" duration="8823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8607000" />
+    <option name="totallyTimeSpent" value="8823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -363,10 +396,10 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.63586205" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32827586" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30533117" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32827586" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30533117" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
