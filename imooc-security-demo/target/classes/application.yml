@@ -6,6 +6,3 @@ spring:
       password:
   session:
     store-type: none
-security:
-  basic:
-    enabled: false

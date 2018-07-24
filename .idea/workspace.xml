@@ -7,24 +7,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3039930-cccc-4e25-b813-3e1f30ea40b6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/service/impl/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/validator/MyConstraint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/validator/MyConstraintValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/web/controller/UserControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/controller/UserController$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/domain/QueryCondition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/domain/User$UserDetailView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/domain/User$UserSimpleView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-security-demo/target/test-classes/com/imooc/web/controller/UserControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/aspect/TimeAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/AsyncController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/DeferredResultHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/MockQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/QueueListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/excepation/UserNotExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/filter/TimeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/handler/ControllerExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/interceptor/TimeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/wiremock/MockServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/resources/static/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock/response/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock/response/02.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-core/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imooc-security-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/web/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/web/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/DemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/controller/UserController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/controller/UserController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/domain/QueryCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/domain/QueryCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-security-demo/target/test-classes/com/imooc/web/controller/UserControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-security-demo/target/test-classes/com/imooc/web/controller/UserControllerTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/imoocsecurity_jar/imoocsecurity.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imoocsecurity_jar/imoocsecurity.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,13 +56,27 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="UserControllerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/web/controller/UserControllerTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
+            <state relative-caret-position="514">
+              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,15 +84,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            <state relative-caret-position="339">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/wiremock/MockServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="19" column="5" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2527#2528#0" expanded="true" />
-                <element signature="e#2556#2557#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock/response/02.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryCondition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,6 +141,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -83,7 +149,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>andExpect</find>
+      <find>urlPatterns</find>
+      <find>System.out.println</find>
     </findStrings>
+    <replaceStrings>
+      <replace>logger.info</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,12 +164,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/imooc-security-app/pom.xml" />
-        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" />
         <option value="$PROJECT_DIR$/imooc-security-browser/pom.xml" />
-        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/imooc-security-core/pom.xml" />
-        <option value="$PROJECT_DIR$/imooc-security-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/validator/ConstraintValidator.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/service/HelloServie.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/validator/MyConstraint.java" />
@@ -106,8 +172,30 @@
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/validator/MyConstraintValidator.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/service/HelloService.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/service/impl/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/resources/error/404.html" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/excepation/UserNotExistException.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/handler/ControllerExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/filter/TimeFilter.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/FileInfo.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/web/controller/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/interceptor/TimeInterceptor.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/aspect/TimeAspect.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/DefferredResultHolder.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/DeferredResultHolder.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/QueueListener.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/MockQueue.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/AsyncController.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock.resopnse/01.txt" />
+        <option value="$PROJECT_DIR$/imooc-security-core/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock/response/02.txt" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/wiremock/MockServer.java" />
       </list>
     </option>
   </component>
@@ -136,27 +224,20 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="imooc-security-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="imooc-security-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="imooc-security-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="imooc-security-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="imooc-security-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-test:2.0.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="704" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -166,12 +247,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
               <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
@@ -207,6 +295,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="imooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="async" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
@@ -227,6 +345,46 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="imooc" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="excepation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
@@ -264,6 +422,51 @@
               <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
               <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="wiremock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="error" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imoocsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imoocsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,11 +491,10 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -304,11 +506,16 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.imooc.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock/response" />
+      <recent name="$PROJECT_DIR$/imooc-security-demo/src/main/resources/static/error" />
+      <recent name="$PROJECT_DIR$/imooc-security-demo/src/main/resources/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -323,55 +530,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserControllerTest.whenDeleteSuccess">
+  <component name="RunManager" selected="Application.MockServer">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.DemoApplication" />
+      <module name="imoocsecuritydemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MockServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.wiremock.MockServer" />
+      <module name="imoocsecuritydemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.wiremock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="imoocsecuritydemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.web.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.imooc.web.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.imooc.web.controller.UserControllerTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="UserControllerTest.whenCreateSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="imoocsecuritydemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.web.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.imooc.web.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.imooc.web.controller.UserControllerTest" />
-      <option name="METHOD_NAME" value="whenCreateSuccess" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="UserControllerTest.whenDeleteSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="imoocsecuritydemo" />
@@ -419,7 +602,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UserControllerTest.whenQuerySuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserControllerTest.whenUploadSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="imoocsecuritydemo" />
       <extension name="coverage">
         <pattern>
@@ -431,7 +614,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.imooc.web.controller" />
       <option name="MAIN_CLASS_NAME" value="com.imooc.web.controller.UserControllerTest" />
-      <option name="METHOD_NAME" value="whenQuerySuccess" />
+      <option name="METHOD_NAME" value="whenUploadSuccess" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -458,6 +641,10 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imoocsecuritydemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.DemoApplication" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -481,19 +668,20 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserControllerTest.whenQuerySuccess" />
-      <item itemvalue="JUnit.UserControllerTest" />
-      <item itemvalue="JUnit.UserControllerTest.whenCreateSuccess" />
       <item itemvalue="JUnit.UserControllerTest.whenPutSuccess" />
       <item itemvalue="JUnit.UserControllerTest.whenDeleteSuccess" />
+      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="JUnit.UserControllerTest.whenUploadSuccess" />
+      <item itemvalue="Application.MockServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MockServer" />
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="JUnit.UserControllerTest.whenUploadSuccess" />
         <item itemvalue="JUnit.UserControllerTest.whenDeleteSuccess" />
         <item itemvalue="JUnit.UserControllerTest.whenPutSuccess" />
-        <item itemvalue="JUnit.UserControllerTest" />
-        <item itemvalue="JUnit.UserControllerTest.whenCreateSuccess" />
-        <item itemvalue="JUnit.UserControllerTest.whenQuerySuccess" />
       </list>
     </recent_temporary>
   </component>
@@ -508,31 +696,11 @@
       <option name="presentableId" value="Default" />
       <updated>1532269059534</updated>
       <workItem from="1532269061517" duration="8823000" />
+      <workItem from="1532367084115" duration="19215000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 22h 49m 41s.xml">
-      <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 22h 52m 47s.xml">
-      <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 22h 53m 48s.xml">
-      <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 22h 55m 10s.xml">
-      <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 22h 57m 32s.xml">
-      <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 23h 12m 41s.xml">
-      <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 23h 16m 27s.xml">
-      <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserControllerTest_whenPutSuccess - 2018.07.23 at 23h 17m 07s.xml">
       <configuration name="UserControllerTest.whenPutSuccess" configurationId="JUnit" />
     </history-entry>
@@ -542,72 +710,67 @@
     <history-entry file="UserControllerTest_whenDeleteSuccess - 2018.07.23 at 23h 26m 56s.xml">
       <configuration name="UserControllerTest.whenDeleteSuccess" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserControllerTest_whenDeleteSuccess - 2018.07.24 at 01h 08m 57s.xml">
+      <configuration name="UserControllerTest.whenDeleteSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.07.24 at 18h 31m 53s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.07.24 at 18h 33m 55s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.07.24 at 18h 34m 53s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.07.24 at 18h 51m 24s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.07.24 at 20h 42m 48s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_whenUploadSuccess - 2018.07.24 at 20h 43m 51s.xml">
+      <configuration name="UserControllerTest.whenUploadSuccess" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23738000" />
+    <option name="totallyTimeSpent" value="45057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32956383" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.88551724" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.56827587" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.8137931" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30533117" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.63586205" />
-      <window_info anchor="bottom" id="Spring" order="9" />
-      <window_info id="Image Layers" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32956383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827586" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.73103446" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30533117" />
-      <window_info anchor="bottom" id="Java Enterprise" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40413794" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827586" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3602585" />
       <window_info anchor="right" id="Bean Validation" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.68689656" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,565 +788,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imooc-security-core/src/main/java/com/irving/security/imoocsecuritycore/ImoocSecurityCoreApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-564">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.irving.security:imooc-security-app:1.0.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.irving.security:imooc-security-app:1.0.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.irving.security:imooc-security-app:1.0.0-SNAPSHOT</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.0.RELEASE/org.springframework.security:spring-security-crypto:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5/org.hdrhistogram:HdrHistogram:jar:2.1.10</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5/org.latencyutils:LatencyUtils:jar:2.0.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/commons-codec:commons-codec:jar:1.11</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.59</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.59/org.bouncycastle:bcprov-jdk15on:jar:1.59</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-tx:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-oxm:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-context-support:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE/org.reactivestreams:reactive-streams:jar:1.0.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-common:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-buffer:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-resolver:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final/io.netty:netty-codec:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.46</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-config:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE/javax.inject:javax.inject:jar:1</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-lang:commons-lang:jar:2.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-collections:commons-collections:jar:3.2.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-beanutils:commons-beanutils:jar:1.9.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-beanutils:commons-beanutils:jar:1.9.3/commons-logging:commons-logging:jar:1.2</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.5099112280405786" x="663.0207827061627" y="345.9695191957689" />
-          <SelectedNodes />
-          <Categories />
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-app/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-browser/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-564">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.irving.security:imooc-security-app:1.0.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.irving.security:imooc-security-app:1.0.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.irving.security:imooc-security-app:1.0.0-SNAPSHOT</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.0.RELEASE/org.springframework.security:spring-security-crypto:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5/org.hdrhistogram:HdrHistogram:jar:2.1.10</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5/org.latencyutils:LatencyUtils:jar:2.0.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/commons-codec:commons-codec:jar:1.11</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.59</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.59/org.bouncycastle:bcprov-jdk15on:jar:1.59</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-tx:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-oxm:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-context-support:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE/org.reactivestreams:reactive-streams:jar:1.0.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-common:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-buffer:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-resolver:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final/io.netty:netty-codec:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.46</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-config:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE/javax.inject:javax.inject:jar:1</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-lang:commons-lang:jar:2.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-collections:commons-collections:jar:3.2.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-beanutils:commons-beanutils:jar:1.9.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-beanutils:commons-beanutils:jar:1.9.3/commons-logging:commons-logging:jar:1.2</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.5099112280405786" x="663.0" y="346.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-app/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-browser/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-564">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.irving.security:imooc-security-app:1.0.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.irving.security:imooc-security-app:1.0.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.irving.security:imooc-security-app:1.0.0-SNAPSHOT</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.0.RELEASE/org.springframework.security:spring-security-crypto:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5/org.hdrhistogram:HdrHistogram:jar:2.1.10</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.0.3.RELEASE/io.micrometer:micrometer-core:jar:1.0.5/org.latencyutils:LatencyUtils:jar:2.0.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-starter-security:jar:2.0.0.RELEASE/org.springframework.cloud:spring-cloud-security:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/commons-codec:commons-codec:jar:1.11</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.2.2.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.59</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.cloud:spring-cloud-starter-oauth2:jar:2.0.0.RELEASE/org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.0.0.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.9.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.59/org.bouncycastle:bcprov-jdk15on:jar:1.59</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-tx:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-oxm:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-context-support:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE/org.reactivestreams:reactive-streams:jar:1.0.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-common:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-buffer:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-resolver:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final/io.netty:netty-codec:jar:4.1.25.Final</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.46</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-config:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE/javax.inject:javax.inject:jar:1</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-lang:commons-lang:jar:2.6</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-collections:commons-collections:jar:3.2.2</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-beanutils:commons-beanutils:jar:1.9.3</node>
-            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-beanutils:commons-beanutils:jar:1.9.3/commons-logging:commons-logging:jar:1.2</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.5099112280405786" x="663.0" y="346.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-app/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-browser/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-test/5.0.7.RELEASE/spring-test-5.0.7.RELEASE-sources.jar!/org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="269" column="41" selection-start-line="269" selection-start-column="41" selection-end-line="269" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-test/5.0.7.RELEASE/spring-test-5.0.7.RELEASE-sources.jar!/org/springframework/test/web/servlet/MockMvc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="176" column="42" selection-start-line="176" selection-start-column="33" selection-end-line="176" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/awt/print/Pageable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-148">
@@ -1220,17 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="198" column="22" selection-start-line="198" selection-start-column="22" selection-end-line="198" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1295,24 +888,428 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/web/controller/UserControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/static/error/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
+        <state relative-caret-position="189">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/excepation/UserNotExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#646#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/handler/ControllerExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java">
+    <entry file="jar:///Library/maven/localWareHouse/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/web/servlet/FilterRegistrationBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+        <state relative-caret-position="29">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/web/servlet/AbstractFilterRegistrationBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="171" column="49" lean-forward="true" selection-start-line="171" selection-start-column="49" selection-end-line="171" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-webmvc/5.0.7.RELEASE/spring-webmvc-5.0.7.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-test/5.0.7.RELEASE/spring-test-5.0.7.RELEASE-sources.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="211" column="57" selection-start-line="211" selection-start-column="57" selection-end-line="211" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/web/controller/UserControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2527#2528#0" expanded="true" />
-            <element signature="e#2556#2557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31-sources.jar!/org/apache/tomcat/util/http/fileupload/IOUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/upload/1532429483404.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/upload/1532436167533.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/interceptor/TimeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="129" selection-start-line="18" selection-start-column="129" selection-end-line="18" selection-end-column="129" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/FileInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/filter/TimeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/aspect/TimeAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-browser/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/context/request/async/DeferredResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/DeferredResultHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/MockQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/QueueListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/async/AsyncController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/maven/localWareHouse/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.irving.security:imooc-security-browser:1.0.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.irving.security:imooc-security-browser:1.0.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.irving.security:imooc-security-browser:1.0.0-SNAPSHOT</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.8.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.8.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-tx:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-oxm:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.8.RELEASE/org.springframework:spring-context-support:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.8.RELEASE/org.reactivestreams:reactive-streams:jar:1.0.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-common:jar:4.1.25.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-buffer:jar:4.1.25.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-resolver:jar:4.1.25.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.3.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.25.Final/io.netty:netty-codec:jar:4.1.25.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.46</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-config:jar:1.1.6.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-core:jar:1.1.6.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-security:jar:1.1.6.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.social:spring-social-web:jar:1.1.6.RELEASE/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/commons-beanutils:commons-beanutils:jar:1.9.3</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.3.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-annotations:jar:1.5.20</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2/net.bytebuddy:byte-buddy:jar:1.7.11</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-schema:jar:2.9.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/com.google.guava:guava:jar:20.0</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger2:jar:2.9.2/org.mapstruct:mapstruct:jar:1.2.0.Final</node>
+            <node x="" y="">com.irving.security:imooc-security-core:jar:1.0.0-SNAPSHOT/io.springfox:springfox-swagger-ui:jar:2.9.2</node>
+            <node x="" y="">org.springframework.session:spring-session:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.session:spring-session:jar:1.3.3.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.11218738992603029" x="2829.0" y="840.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/domain/QueryCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock/response/01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/commons-io/commons-io/2.6/commons-io-2.6.jar!/org/apache/commons/io/FileUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="1055" column="25" selection-start-line="1055" selection-start-column="25" selection-end-line="1055" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="526" column="26" selection-start-line="526" selection-start-column="26" selection-end-line="526" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/maven/localWareHouse/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/org/apache/commons/io/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1836" column="25" selection-start-line="1836" selection-start-column="25" selection-end-line="1836" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/resources/wiremock/response/02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/wiremock/MockServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="5" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

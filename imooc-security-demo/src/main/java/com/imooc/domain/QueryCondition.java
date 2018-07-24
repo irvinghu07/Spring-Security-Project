@@ -1,13 +1,19 @@
 package com.imooc.domain;
 
+import io.swagger.annotations.ApiModelProperty;
+
 public class QueryCondition {
 
+    @ApiModelProperty(value = "用户名")
     private String username;
 
+    @ApiModelProperty(value = "用户年龄")
     private String age;
 
+    @ApiModelProperty(value = "用户年龄区间")
     private String ageTo;
 
+    @ApiModelProperty(value = "xxx")
     private String xxx;
 
     public QueryCondition(String username, String age, String ageTo, String xxx) {

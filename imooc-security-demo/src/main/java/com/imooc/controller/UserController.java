@@ -3,6 +3,8 @@ package com.imooc.controller;
 import com.fasterxml.jackson.annotation.JsonView;
 import com.imooc.domain.QueryCondition;
 import com.imooc.domain.User;
+import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiParam;
 import org.apache.commons.lang.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
 import org.slf4j.Logger;
@@ -24,6 +26,7 @@ public class UserController {
 
     @GetMapping
     @JsonView(User.UserSimpleView.class)
+    @ApiOperation(value = "用户查询服务")
     public List<User> query(QueryCondition condition, @PageableDefault(page = 2, size = 17, sort = "username,asc") Pageable pageable){
         logger.info("query condition:{}", ReflectionToStringBuilder.toString(condition, ToStringStyle.MULTI_LINE_STYLE));
         logger.info("pageable information:{}", ReflectionToStringBuilder.toString(pageable, ToStringStyle.MULTI_LINE_STYLE));
@@ -36,7 +39,10 @@ public class UserController {
 
     @GetMapping("/{id:\\d+}")
     @JsonView(User.UserDetailView.class)
-    public User getInfo(@PathVariable("id") String id){
+    public User getInfo(@ApiParam(value = "用户id") @PathVariable("id") String id){
+//        throw new UserNotExistException("user does not exist",id);
+//        throw new RuntimeException("测试拦截器捕获运行时异常");
+        logger.info("进入getinfo服务");
         User u = new User("irving", "0707");
         return u;
     }
